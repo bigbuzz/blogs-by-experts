@@ -43,6 +43,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Scott Aaronson: [Why I am not an integrated information theorist](http://www.scottaaronson.com/blog/?p=1799)
  - Sean Carroll: Preposterous Universe https://www.preposterousuniverse.com/blog/
+ - Brian Greene: Theoretical Physics
 
 ## Psychiatry
 
